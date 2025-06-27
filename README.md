@@ -1,3 +1,5 @@
+# -> https://github.com/z64utils/io_export_objex_2.5
+
 # io_export_objex
 
 [Old addon version](https://github.com/CrookedPoe/io_export_objex/blob/285f65b70b97beb90feeccaa7d6d02a2b48d53d6/io_export_objex_outdated.zip)
